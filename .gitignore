@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-electron/
+release/
+installer/
+.env
+.DS_Store
+Thumbs.db
+*.sqlite
+*.db
+coverage/
+.vite/
