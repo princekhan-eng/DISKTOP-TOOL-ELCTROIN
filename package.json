@@ -1,5 +1,5 @@
 {
-  "name": "devprompt-studio",
+  "name": "prompt-architect",
   "version": "1.0.0",
   "description": "Local developer workspace for prompts, UI plans and architecture flows",
   "main": "electron/main.cjs",
@@ -14,7 +14,7 @@
   },
   "build": {
     "appId": "com.devprompt.studio",
-    "productName": "DevPrompt Studio",
+    "productName": "Prompt Architect",
     "directories": {
       "output": "C:/Users/mluqm/.gemini/antigravity-ide/brain/6e871bc4-055a-4932-a433-d00831758c19/scratch/installer"
     },

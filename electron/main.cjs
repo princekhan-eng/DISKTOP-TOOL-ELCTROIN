@@ -10,7 +10,7 @@ function createWindow() {
     height: 900,
     minWidth: 1024,
     minHeight: 700,
-    title: 'DevPrompt Studio',
+    title: 'Prompt Architect',
     backgroundColor: '#F7F9FC',
     webPreferences: {
       preload: path.join(__dirname, 'preload.cjs'),
